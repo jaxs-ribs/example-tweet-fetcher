@@ -1,0 +1,13 @@
+{
+    "send.wasm": {
+        "root": false,
+        "public": false,
+        "request_networking": false,
+        "request_capabilities": [
+            "tweetfetcher:tweetfetcher:template.os"
+        ],
+        "grant_capabilities": [
+            "tweetfetcher:tweetfetcher:template.os"
+        ]
+    }
+}
